@@ -1,2 +1,2 @@
-# kaggle
-Kaggle Competitions
+# Digit Recognizer
+
